@@ -23,10 +23,7 @@ public class Locomocao implements Serializable {
 		this.placa = placa;
 	}
 
-	public Locomocao () {
-		super();
-	}
-
+	
 	public Locomocao(Integer id) {
 		super();
 		this.id = id;
