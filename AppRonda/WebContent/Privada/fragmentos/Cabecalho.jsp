@@ -40,7 +40,7 @@
 	        </li>
 	      </ul>
 	    </li>
-	    <li><a href="#">Sair</a></li>
+	    <li><a href="../../Login.jsp">Sair</a></li>
 	  </ul>
 	</nav>
 
